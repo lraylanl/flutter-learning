@@ -1,5 +1,5 @@
-# Flutter 환경 구성 및 'Hello World' 앱 실행하기
-## Flutter 환경 구성하기
+# Flutter 개발 환경 구성 및 'Hello World' 앱 실행하기
+## Flutter 개발 환경 구성하기
 안드로이드 스튜디오는 저번 학기 수업으로 인해 설치되어 있음.
 - Flutter 플러그인을 안드로이드 스튜디오에서 설치.
 - Flutter 공식 홈페이지에서 **Flutter SDK**를 3.29.0 버전으로 다운로드

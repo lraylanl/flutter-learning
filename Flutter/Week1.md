@@ -7,7 +7,7 @@
 ## 'Hello World' 앱 실행하기
 - New Flutter Project 클릭
 - hello_world라는 이름으로 프로젝트 생성
-- 다음 코드를 **main.dart**에 작성한 후 브라우저로 실행
+- 다음 코드를 **main.dart**에 작성한 후 실행
 ```
 import 'package:flutter/material.dart';
 

@@ -104,3 +104,25 @@ class Page1 extends StatelessWidget {
 }
 
 ```
+#### data.dart
+```
+// data.dart
+final List<String> dummyItems = [
+  'https://cdn.pixabay.com/photo/2018/11/12/18/44/thanksgiving-3811492_1280.jpg',
+  'https://cdn.pixabay.com/photo/2019/10/30/15/33/tajikistan-4589831_1280.jpg',
+  'https://cdn.pixabay.com/photo/2019/11/25/16/15/safari-4652364_1280.jpg',
+];
+
+final List<String> menuItems = [
+  '택시',
+  '블랙',
+  '바이크',
+  '대리',
+];
+
+final List<String> noticeItems = List.generate(
+  10,
+  (i) => '[이벤트] 이것은 공지사항 $i번입니다',
+);
+
+```
